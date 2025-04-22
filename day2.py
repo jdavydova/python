@@ -24,7 +24,7 @@
 #Строки используются для хранения текста.
 
 name = "Anna"
-city = 'Moscow'
+city = 'London'
 print(name)
 print(city)
 
